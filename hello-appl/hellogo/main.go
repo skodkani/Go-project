@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/skodkani/Go-project/mystrings"
+	"github.com/skodkani/Go-project/hello-appl/mystrings"
 )
 
 // Main function - the entry point to the Application.
